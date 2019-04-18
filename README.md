@@ -1,0 +1,2 @@
+On dispose d¹une balance Roberval et de 8 boules pesants toutes le même poids, sauf une qui est légèrement plus lourde que les autres. A l¹aide de la balance, 
+il faut pouvoir déterminer, à coup sûr, quelle est la boule légèrement plus lourde. 
